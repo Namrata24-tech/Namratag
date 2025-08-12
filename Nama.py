@@ -1,5 +1,5 @@
 # Hardcoded password
-PASSWORD = "MySecret123"
+#PASSWORD = "MySecret123"
 
 # Ask user for password
 user_input = input("Enter password: ")
